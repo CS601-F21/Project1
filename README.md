@@ -110,7 +110,7 @@ The only external libraries you may use for this assignment are [GSON](https://g
 
 ## Extra Credit
 
-You may earn up to three (3) points of extra credit by completing interactive grading and submitting all required code during the professor's office hours on or before Tuesday, September 18, 2018. Note that office hours are first come, first served and students with assignment questions have priority over students wishing to complete early interactive grading. To earn the extra credit it is suggested you come for interactive grading well before the deadline!
+You may earn up to three (3) points of extra credit by completing interactive grading and submitting all required code during the professor's office hours on or before Wednesday, September 15, 2021. Note that office hours are first come, first served and *students with assignment questions have priority over students wishing to complete early interactive grading*. To earn the extra credit it is suggested you come for interactive grading well before the deadline!
 
 ## Grading Rubric
 
