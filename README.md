@@ -1,8 +1,6 @@
 Project 1 - Amazon Review and Q&A Search
 ===========================================
 
-*This assignment description is subject to change.*
-
 ### Due - Thursday, September 16, 2021 - 9:55am
 
 For this project, you will implement a program to allow searching of a database of Amazon reviews and Q&A content. You will practice using the following:
@@ -105,7 +103,7 @@ The only external libraries you may use for this assignment are [GSON](https://g
 1. Use the following link to create your private github repository for this assignment: [Project 1]()
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F21/notes/blob/main/admin/style.md). Points will be deducted for each violation.
 3. All code and the jar file described above must be submitted to your github repository by **Thursday, September 16, 2021 - 9:55am**. Failure to submit the project as required will result in a score of 0.
-4. Interactive grading is required for this project. A signup form will be made available prior to the deadline. You **must** be present for your interactive grading session on the day the project is due. Failure to demonstrate the functionality described below to the instructor or a TA will result in a score of 0.
+4. Interactive grading is required for this project. A signup form will be made available prior to the deadline. You **must** be present for your interactive grading session on or before the day the project is due. Failure to demonstrate the functionality described below to the instructor or a TA will result in a score of 0.
 5. There are no unit test cases provided for this project, but during interactive grading you will be expected to demonstrate your solution running on the Cell Phones and Accessories data. Make sure to test incorrect commands and searches for ASINs and terms that are not present in the data.
 
 ## Extra Credit
